@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarshaBank.Presentation", "HarshaBank.Presentation\HarshaBank.Presentation.csproj", "{49750EAD-5765-45C8-8765-BDB06B25056B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarshaBank.Entities", "HarshaBank.Entities\HarshaBank.Entities.csproj", "{4D7569E3-E4E7-4827-847C-47DF74F39EC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarshaBank.DataAccessLayer", "HarshaBank.DataAccessLayer\HarshaBank.DataAccessLayer.csproj", "{58752732-D713-4584-9FED-FB40DCF4DB0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarshaBank.BuisnessLogicLayer", "HarshaBank.BuisnessLogicLayer\HarshaBank.BuisnessLogicLayer.csproj", "{4AF04CB2-05A4-4F8F-811A-37496EF216BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarshaBank.Configuration", "HarshaBank.Configuration\HarshaBank.Configuration.csproj", "{7F34F405-E4CB-4EFD-88D6-E5D5EFDA2519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarshaBank.Exceptions", "HarshaBank.Exceptions\HarshaBank.Exceptions.csproj", "{1E66E023-C8D9-4EC0-9866-8B410950CC70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49750EAD-5765-45C8-8765-BDB06B25056B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49750EAD-5765-45C8-8765-BDB06B25056B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49750EAD-5765-45C8-8765-BDB06B25056B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49750EAD-5765-45C8-8765-BDB06B25056B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7569E3-E4E7-4827-847C-47DF74F39EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7569E3-E4E7-4827-847C-47DF74F39EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7569E3-E4E7-4827-847C-47DF74F39EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7569E3-E4E7-4827-847C-47DF74F39EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58752732-D713-4584-9FED-FB40DCF4DB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58752732-D713-4584-9FED-FB40DCF4DB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58752732-D713-4584-9FED-FB40DCF4DB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58752732-D713-4584-9FED-FB40DCF4DB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF04CB2-05A4-4F8F-811A-37496EF216BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF04CB2-05A4-4F8F-811A-37496EF216BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF04CB2-05A4-4F8F-811A-37496EF216BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF04CB2-05A4-4F8F-811A-37496EF216BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F34F405-E4CB-4EFD-88D6-E5D5EFDA2519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F34F405-E4CB-4EFD-88D6-E5D5EFDA2519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F34F405-E4CB-4EFD-88D6-E5D5EFDA2519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F34F405-E4CB-4EFD-88D6-E5D5EFDA2519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E66E023-C8D9-4EC0-9866-8B410950CC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E66E023-C8D9-4EC0-9866-8B410950CC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E66E023-C8D9-4EC0-9866-8B410950CC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E66E023-C8D9-4EC0-9866-8B410950CC70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D8F91E6-BFC1-43C3-B144-E36AF954F458}
+	EndGlobalSection
+EndGlobal
